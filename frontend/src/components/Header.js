@@ -20,7 +20,7 @@ function Header({ theme, toggleTheme }) {
         <div className="header-actions">
         {/* GitHub link */}
         <a
-            href="https://github.com/your-username/your-repo-name"
+            href="https://github.com/AakashReddy4/ai-wiki-quiz-generator.git"
             target="_blank"
             rel="noreferrer"
             className="icon-button"
