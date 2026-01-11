@@ -1,0 +1,74 @@
+{
+    "id": 15,
+    "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "title": "Python (programming language)",
+    "summary": "Pythonis ahigh-level,general-purpose programming language. Its design philosophy emphasizescode readabilitywith the use ofsignificant indentation.[34]Python isdynamically type-checkedandgarbage-collected. It supports multipleprogramming paradigms, includingstructured(particularlyprocedural),object-orientedandfunctional programming.",
+    "questions": [
+        {
+            "question": "What best describes Python (programming language)?",
+            "options": [
+                "A widely used concept with real-world applications",
+                "A minor historical reference",
+                "An outdated and unused idea",
+                "A purely theoretical assumption"
+            ],
+            "answer": "A widely used concept with real-world applications",
+            "difficulty": "easy",
+            "explanation": "The article highlights Python (programming language) as an important and commonly used concept."
+        },
+        {
+            "question": "In which domain is Python (programming language) most commonly applied?",
+            "options": [
+                "Computer Science and Technology",
+                "Fine Arts",
+                "Sports and Fitness",
+                "Political Science"
+            ],
+            "answer": "Computer Science and Technology",
+            "difficulty": "medium",
+            "explanation": "Python (programming language) is primarily discussed in technical and computational contexts."
+        },
+        {
+            "question": "Why is Python (programming language) considered important?",
+            "options": [
+                "It enables flexibility and scalability",
+                "It is rarely used today",
+                "It replaced all older technologies",
+                "It has only academic value"
+            ],
+            "answer": "It enables flexibility and scalability",
+            "difficulty": "medium",
+            "explanation": "Its importance comes from adaptability and wide applicability."
+        },
+        {
+            "question": "Which characteristic is strongly associated with Python (programming language)?",
+            "options": [
+                "Versatility",
+                "Fragility",
+                "Irrelevance",
+                "Limited scope"
+            ],
+            "answer": "Versatility",
+            "difficulty": "hard",
+            "explanation": "Python (programming language) is known for being adaptable across multiple use cases."
+        },
+        {
+            "question": "What is a realistic real-world use of Python (programming language)?",
+            "options": [
+                "Building scalable applications",
+                "Designing physical buildings",
+                "Conducting medical surgery",
+                "Managing sports tournaments"
+            ],
+            "answer": "Building scalable applications",
+            "difficulty": "hard",
+            "explanation": "The article refers to practical implementations in real-world systems."
+        }
+    ],
+    "related_topics": [
+        "Introduction to Python (programming language)",
+        "Applications of Python (programming language)",
+        "History of Python (programming language)"
+    ],
+    "created_at": "2026-01-11T10:25:35.515621Z"
+}

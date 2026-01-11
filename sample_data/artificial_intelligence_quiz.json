@@ -1,0 +1,74 @@
+{
+    "id": 17,
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "title": "Artificial intelligence",
+    "summary": "Artificial intelligence(AI) is the capability ofcomputational systemsto perform tasks typically associated withhuman intelligence, such aslearning,reasoning,problem-solving,perception, anddecision-making. It is afield of researchincomputer sciencethat develops and studies methods andsoftwarethat enable machines toperceive their environmentand uselearningandintelligenceto take actions that maximize their chances of achieving defined goals.[1]",
+    "questions": [
+        {
+            "question": "What best describes Artificial intelligence?",
+            "options": [
+                "A widely used concept with real-world applications",
+                "A minor historical reference",
+                "An outdated and unused idea",
+                "A purely theoretical assumption"
+            ],
+            "answer": "A widely used concept with real-world applications",
+            "difficulty": "easy",
+            "explanation": "The article highlights Artificial intelligence as an important and commonly used concept."
+        },
+        {
+            "question": "In which domain is Artificial intelligence most commonly applied?",
+            "options": [
+                "Computer Science and Technology",
+                "Fine Arts",
+                "Sports and Fitness",
+                "Political Science"
+            ],
+            "answer": "Computer Science and Technology",
+            "difficulty": "medium",
+            "explanation": "Artificial intelligence is primarily discussed in technical and computational contexts."
+        },
+        {
+            "question": "Why is Artificial intelligence considered important?",
+            "options": [
+                "It enables flexibility and scalability",
+                "It is rarely used today",
+                "It replaced all older technologies",
+                "It has only academic value"
+            ],
+            "answer": "It enables flexibility and scalability",
+            "difficulty": "medium",
+            "explanation": "Its importance comes from adaptability and wide applicability."
+        },
+        {
+            "question": "Which characteristic is strongly associated with Artificial intelligence?",
+            "options": [
+                "Versatility",
+                "Fragility",
+                "Irrelevance",
+                "Limited scope"
+            ],
+            "answer": "Versatility",
+            "difficulty": "hard",
+            "explanation": "Artificial intelligence is known for being adaptable across multiple use cases."
+        },
+        {
+            "question": "What is a realistic real-world use of Artificial intelligence?",
+            "options": [
+                "Building scalable applications",
+                "Designing physical buildings",
+                "Conducting medical surgery",
+                "Managing sports tournaments"
+            ],
+            "answer": "Building scalable applications",
+            "difficulty": "hard",
+            "explanation": "The article refers to practical implementations in real-world systems."
+        }
+    ],
+    "related_topics": [
+        "Introduction to Artificial intelligence",
+        "Applications of Artificial intelligence",
+        "History of Artificial intelligence"
+    ],
+    "created_at": "2026-01-11T10:28:33.558815Z"
+}
