@@ -1,0 +1,36 @@
+:root {
+  /* === Accent & Identity === */
+  --accent: #74523B;        /* Saddle Up */
+  --accent-soft: #AF9D8E;   /* Taupe Tone */
+
+  /* === Light Mode === */
+  --bg-color: #CBCDCC;      /* Passive */
+  --card-bg: #C8BFB8;       /* Twilight Gray */
+  --border-color: #BFB2A8;  /* Temperate Taupe */
+  --hover-bg: #AF9D8E;
+
+  --text-color: #2B2B2B;
+  --text-muted: #5A5A5A;
+}
+
+[data-theme='dark'] {
+  /* === Dark Mode === */
+  --bg-color: #2A1E18;      /* Deep brown (derived from Saddle Up) */
+  --card-bg: #3A2A22;
+  --border-color: #5E4A3E;
+
+  --accent: #AF9D8E;        /* Taupe becomes accent in dark mode */
+  --accent-soft: #C8BFB8;
+
+  --hover-bg: #5E4A3E;
+
+  --text-color: #F2EEE9;
+  --text-muted: #C8BFB8;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}

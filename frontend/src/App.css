@@ -1,0 +1,30 @@
+.app-container {
+  min-height: 100vh;
+}
+
+.tabs {
+  padding: 16px 24px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+
+.tabs button {
+  padding: 10px 16px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+.tabs button.active {
+  background-color: var(--accent);
+  color: white;
+}
+
+.content {
+  padding: 24px;
+}
